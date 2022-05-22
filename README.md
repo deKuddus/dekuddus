@@ -18,9 +18,17 @@ I am Md Abdul Kuddus. Web Developer from Bangladesh and currently working as a P
 ![Tailwind](https://img.shields.io/badge/-Tailwind-%232c3e50?style=for-the-badge&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=for-the-badge&logo=Bootstrap)
 
-- 🔭 I’m currently working on ReactJs, NextJs, Laravel and GraphQL with MySQL Database.
-- 🌱 I’m currently learning in depth Laravel , React and NextJS.
-- 👯 I’m looking to collaborate on public repository called Open Source in PHP and JavaScript Type Project.
-- 🤔 I’m looking for help to grow up my skill
-- 📫 How to reach me: ma.kuddus37@gmail.com
+## Reach Me
 
+<a href="https://twitter.com/arif_szn">
+  <img align="left" alt="Twitter" width="22px" src="./assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ariful-alam">
+  <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/swozon">
+  <img align="left" alt="Facebook" width="22px" src="./assets/facebook.svg" />
+</a>
+<a href="mailto:arifulalamszn@gmail.com">
+  <img align="left" alt="Mail" width="22px" src="./assets/gmail.svg" />
+</a>
