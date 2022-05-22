@@ -20,15 +20,15 @@ I am Md Abdul Kuddus. Web Developer from Bangladesh and currently working as a P
 
 ## Reach Me
 
-<a href="https://twitter.com/arif_szn">
+<a href="https://twitter.com/dekuddus">
   <img align="left" alt="Twitter" width="22px" src="./assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ariful-alam">
+<a href="https://www.linkedin.com/in/dekuddus">
   <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/swozon">
+<a href="https://www.facebook.com/dekuddus">
   <img align="left" alt="Facebook" width="22px" src="./assets/facebook.svg" />
 </a>
-<a href="mailto:arifulalamszn@gmail.com">
+<a href="mailto:ma.kuddus37@gmail.com">
   <img align="left" alt="Mail" width="22px" src="./assets/gmail.svg" />
 </a>
