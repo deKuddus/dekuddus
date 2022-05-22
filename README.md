@@ -16,6 +16,7 @@ I am a professional web developer since 2019 later :
 ![CSS](https://img.shields.io/badge/-CSS-%232c3e50?style=for-the-badge&logo=css3)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-%232c3e50?style=for-the-badge&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=for-the-badge&logo=Bootstrap)
+![NextJs](https://img.shields.io/badge/-NextJs-%232c3e50?style=for-the-badge&logo=Bootstrap)
 
 - 🔭 I’m currently working on ReactJs, NextJs, Laravel and GraphQL with MySQL Database.
 - 🌱 I’m currently learning in depth Laravel , React and NextJS.
