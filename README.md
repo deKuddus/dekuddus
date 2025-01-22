@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Md Abdul Kuddus. Web Developer from Bangladesh and currently working as a PHP Developer at [WPDeveloper](https://wpdeveloper.com). Despite working in the backend, I am very much enthusiastic about frontend technologies. My expertise includes PHP, Laravel, JavaScript, React.js, NextJs, AdonisJs, JQuery, VueJs, MySQL, PostgreSQL.
+I am Md Abdul Kuddus. Web Developer from Bangladesh and currently working as a PHP Developer at [WPDeveloper](https://wpdeveloper.com). Despite working in the backend, I am very much enthusiastic about frontend technologies. My expertise includes PHP, Laravel, JavaScript, React.js, NextJs, MySQL, PostgreSQL.
 
 ## My Tech Stack
 
