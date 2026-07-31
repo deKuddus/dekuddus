@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-I am **Md Abdul Kuddus** — a web developer from Dhaka, Bangladesh, currently working at [WPDeveloper](https://wpdeveloper.com). I spend most of my time in PHP and Laravel, but I am just as comfortable across the stack with TypeScript, React and Next.js. Lately I have been building SaaS products, Shopify apps and AI-powered tooling.
+I am **Md Abdul Kuddus** — a web developer from Dhaka, Bangladesh, working independently on my own products and client projects. I spend most of my time in PHP and Laravel, but I am just as comfortable across the stack with TypeScript, React and Next.js. Lately I have been building SaaS products, Shopify apps and AI-powered tooling.
 
 > Turning ideas into functional, beautiful code.
 
 - 🔭 Currently building multi-tenant SaaS products, Shopify apps and AI integrations for PHP
+- 🤝 Open to freelance and contract work
 - 🌱 Exploring AI-assisted development workflows and Astro for fast, content-driven sites
 - 💬 Ask me about **PHP, Laravel, WordPress, JavaScript/TypeScript, React & Next.js**
 - 🌐 More about me at [dekuddus.dev](https://dekuddus.dev)
