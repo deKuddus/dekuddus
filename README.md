@@ -1,62 +1,33 @@
-### Hi there 👋
+# Md Abdul Kuddus
 
-I am **Md Abdul Kuddus** — a web developer from Dhaka, Bangladesh, currently working at [WPDeveloper](https://wpdeveloper.com). I spend most of my time in PHP and Laravel, but I am just as comfortable across the stack with TypeScript, React and Next.js. Lately I have been building SaaS products, Shopify apps and AI-powered tooling.
+**Software engineer building AI-powered products, SaaS platforms, and commerce tools.**
 
-> Turning ideas into functional, beautiful code.
+I work across interfaces, APIs, integrations, and deployment to turn product ideas into working software. Over six years in software engineering, I have shipped customer-facing products and the systems behind them. At Startise and WPDeveloper, I worked on Templately's live AI generation and editing features alongside its storefront, services, and internal tools.
 
-- 🔭 Currently building multi-tenant SaaS products, Shopify apps and AI integrations for PHP
-- 🌱 Exploring AI-assisted development workflows and Astro for fast, content-driven sites
-- 💬 Ask me about **PHP, Laravel, WordPress, JavaScript/TypeScript, React & Next.js**
-- 🌐 More about me at [dekuddus.dev](https://dekuddus.dev)
+Today my work spans Python-based computer vision research, Shopify products, and SaaS applications. I use AI-assisted and agentic development workflows to move faster while staying responsible for implementation, review, and delivery.
 
-## My Tech Stack
+[Portfolio](https://dekuddus.dev) · [LinkedIn](https://www.linkedin.com/in/dekuddus/) · [Email](mailto:ma.kuddus37@gmail.com)
 
-**Backend**
+## Selected work
 
-![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=for-the-badge&logo=PHP)
-![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=for-the-badge&logo=laravel)
-![WordPress](https://img.shields.io/badge/-WordPress-%232c3e50?style=for-the-badge&logo=wordpress)
-![Node.js](https://img.shields.io/badge/-Node.js-%232c3e50?style=for-the-badge&logo=nodedotjs)
+[<img src="./assets/frame-lab-rnd-banner.png" alt="Frame Lab R&D: eyewear photos, reviewed contours, and a 3D model" width="800" />](https://dekuddus.dev/projects#frame-lab)
 
-**Frontend**
+| Project | What I built or contributed to |
+| --- | --- |
+| [Templately](https://templately.com) | Production AI site and template generation and editing, real-time progress feedback, a Next.js storefront, Laravel/GraphQL APIs, and internal tools. |
+| [Frame Lab](https://dekuddus.dev/projects#frame-lab) | Python eyewear reconstruction research: product photos and measurements become reviewed outlines and a CPU-generated 3D GLB for browser inspection and AR. Optional AI segmentation assists analysis. **Research app; no public demo.** |
+| [Poby](https://getpoby.com) | Live Shopify app that collects post-purchase ratings and written feedback through a Thank You page extension, with a merchant analytics dashboard. |
+| [Postli](https://usepostli.com) | Shopify marketing product for tracked short links, social scheduling, click analytics, and order-based revenue attribution. |
+| [RepairSuite](https://repairsuite.co.uk) | Repair-shop platform covering tickets, technician workflows, parts inventory, invoicing, multi-branch operations, and reporting. Built with Technetc. |
+| [BiteKube](https://bitekube.com) | Restaurant ordering and POS workflows, including online checkout, dine-in and pickup sales, back-office management, and real-time order updates. Built with Technetc. |
+| [SalGenie Virtual Try-On & Size Chart](https://vto.salgenie.com/) | Shopify app in development for photo-based try-on previews, size charts, size recommendations, and merchant analytics. The linked product preview is live. |
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%232c3e50?style=for-the-badge&logo=typescript)
-![React.js](https://img.shields.io/badge/-React.js-%232c3e50?style=for-the-badge&logo=react)
-![NextJs](https://img.shields.io/badge/-NextJs-%232c3e50?style=for-the-badge&logo=Next.js)
-![Astro](https://img.shields.io/badge/-Astro-%232c3e50?style=for-the-badge&logo=astro)
-![Tailwind](https://img.shields.io/badge/-Tailwind-%232c3e50?style=for-the-badge&logo=tailwindcss)
-![CSS](https://img.shields.io/badge/-CSS-%232c3e50?style=for-the-badge&logo=css3)
+## Tools I use
 
-**Data & Tools**
+- **AI and Python:** Python, computer vision, optional model-assisted segmentation, LLM integrations, AI-assisted development workflows
+- **Product engineering:** TypeScript, JavaScript, React, Next.js, Shopify, GraphQL, Tailwind CSS
+- **Backend and operations:** PHP, Laravel, Node.js, MySQL, PostgreSQL, Redis, Docker, Git, CI/CD
 
-![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=for-the-badge&logo=MySQL)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%232c3e50?style=for-the-badge&logo=postgresql)
-![Redis](https://img.shields.io/badge/-Redis-%232c3e50?style=for-the-badge&logo=redis)
-![Docker](https://img.shields.io/badge/-Docker-%232c3e50?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/-Git-%232c3e50?style=for-the-badge&logo=git)
-![Shopify](https://img.shields.io/badge/-Shopify-%232c3e50?style=for-the-badge&logo=shopify)
+I'm interested in hands-on AI product engineering and full-stack roles where I can ship useful features with a product team.
 
-## GitHub Stats
-
-<a href="https://github.com/deKuddus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deKuddus&show_icons=true&hide_border=true&count_private=true" alt="deKuddus's GitHub stats" />
-</a>
-
-## Reach Me
-
-<a href="https://dekuddus.dev">
-  <img align="left" alt="Website" width="22px" src="./assets/website.svg" />
-</a>
-<a href="https://twitter.com/dekuddus">
-  <img align="left" alt="Twitter" width="22px" src="./assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/dekuddus">
-  <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/dekuddus">
-  <img align="left" alt="Facebook" width="22px" src="./assets/facebook.svg" />
-</a>
-<a href="mailto:ma.kuddus37@gmail.com">
-  <img align="left" alt="Mail" width="22px" src="./assets/gmail.svg" />
-</a>
+**More details and project status:** [dekuddus.dev/projects](https://dekuddus.dev/projects)
